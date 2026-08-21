@@ -1,0 +1,8 @@
+node_modules/
+account.txt
+.env
+.env.*
+fb_dtsg_data.json
+*.dev.json
+*.dev.txt
+npm-debug.log*node_modules
