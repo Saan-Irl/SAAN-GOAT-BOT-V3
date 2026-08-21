@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=SATURO%20BOT%20V2&fontSize=100&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=⚡%20The%20Ultimate%20Facebook%20Messenger%20Bot%20⚡&descSize=24&descAlignY=65&descColor=FFD700&customColorList=0,1,2,3,4,5,6,7,8,9" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=SAAN'S%20BOT%20V3&fontSize=100&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=⚡%20The%20Ultimate%20Facebook%20Messenger%20Bot%20⚡&descSize=24&descAlignY=65&descColor=FFD700&customColorList=0,1,2,3,4,5,6,7,8,9" width="100%"/>
 </div>
 
 <br/>
@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=🚀+200%2B+Commands+Ready;⚡+Lightning+Fast+Performance;🛡️+Advanced+Anti-Suspension;🎛️+Powerful+Web+Dashboard;💫+Maintained+by+ANIK+ISLAM+SADIK)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=🚀+200%2B+Commands+Ready;⚡+Lightning+Fast+Performance;🛡️+Advanced+Anti-Suspension;🎛️+Powerful+Web+Dashboard;💫+Maintained+by+SIAM+AHMED+SAAN)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,11 +27,11 @@
 
 <div align="center">
 
-[![Stars](https://img.shields.io/badge/🌟_Stars-FF6B6B?style=for-the-badge&logo=starship&logoColor=white&labelColor=1a1a2e)](https://github.com/lazyanik/SATURO-BOT-V2/stargazers)
-[![Forks](https://img.shields.io/badge/🍴_Forks-4D96FF?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e)](https://github.com/lazyanik/SATURO-BOT-V2/forks)
-[![Size](https://img.shields.io/badge/📦_Size-6BCB77?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/lazyanik/SATURO-BOT-V2)
-[![Commit](https://img.shields.io/badge/🔄_Updated-FFD93D?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/lazyanik/SATURO-BOT-V2/commits)
-[![License](https://img.shields.io/badge/📜_License-FF6B6B?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=1a1a2e)](https://github.com/lazyanik/SATURO-BOT-V2/blob/main/LICENSE)
+[![Stars](https://img.shields.io/badge/🌟_Stars-FF6B6B?style=for-the-badge&logo=starship&logoColor=white&labelColor=1a1a2e)](https://github.com/Saan-Irl/SAAN-GOAT-BOT-V3.git/stargazers)
+[![Forks](https://img.shields.io/badge/🍴_Forks-4D96FF?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e)](https://github.com/Saan-Irl/SAAN-GOAT-BOT-V3/forks)
+[![Size](https://img.shields.io/badge/📦_Size-6BCB77?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/Saan-Irl/SAAN-GOAT-BOT-V3)
+[![Commit](https://img.shields.io/badge/🔄_Updated-FFD93D?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/Saan-Irl/SAAN-GOAT-BOT-V3/commits)
+[![License](https://img.shields.io/badge/📜_License-FF6B6B?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=1a1a2e)](https://github.com/Saan-Irl/SAAN-GOAT-BOT-V3/blob/main/LICENSE)
 
 </div>
 
@@ -49,14 +49,14 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lazyanik&style=for-the-badge&color=FF6B6B&label=👁️+VIEWS&labelColor=1a1a2e"/>
+  <img src="https://komarev.com/ghpvc/?username=Siam Ahmed Saan&style=for-the-badge&color=FF6B6B&label=👁️+VIEWS&labelColor=1a1a2e"/>
   <img src="https://img.shields.io/badge/dynamic/json?label=⭐%20Total%20Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Flazyanik&style=for-the-badge&color=FFD93D&labelColor=1a1a2e"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aLpha-x69&repo=SATURO-BOT-V2&theme=tokyonight&hide_border=true&border_radius=15&title_color=FF6B6B&icon_color=FFD93D&text_color=6BCB77&bg_color=0d0d0d" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saan-Irl&repo=SAAN-GOAT-BOT-V3-V2&theme=tokyonight&hide_border=true&border_radius=15&title_color=FF6B6B&icon_color=FFD93D&text_color=6BCB77&bg_color=0d0d0d" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aLpha-x69&theme=tokyonight&hide_border=true&border_radius=15&title_color=4D96FF&text_color=FFD93D&bg_color=0d0d0d&layout=compact" width="49%"/>
 </div>
 
@@ -152,7 +152,7 @@ module.exports = {
   config: {
     name: "commandName",
     version: "2.0",
-    author: "ANIK ISLAM SADIK",
+    author: "SIAM AHMED SAAN",
     role: 0,  // 0=Normal 1=GroupAdmin 3=Premium 2=BotAdmin 4=Developer
     usePrefix: true,
     description: "Command description here",
@@ -200,12 +200,12 @@ Module Progress Status
 <div align="center">
 
 Metric Value
-⭐ Stars https://img.shields.io/github/stars/lazyanik/SATURO-BOT-V2?style=flat-square&color=FF6B6B
-🍴 Forks https://img.shields.io/github/forks/lazyanik/SATURO-BOT-V2?style=flat-square&color=4D96FF
-📦 Size https://img.shields.io/github/repo-size/lazyanik/SATURO-BOT-V2?style=flat-square&color=6BCB77
-📅 Last Commit https://img.shields.io/github/last-commit/lazyanik/SATURO-BOT-V2?style=flat-square&color=FFD93D
-🐛 Issues https://img.shields.io/github/issues/lazyanik/SATURO-BOT-V2?style=flat-square&color=FF6B6B
-🔀 PRs https://img.shields.io/github/issues-pr/lazyanik/SATURO-BOT-V2?style=flat-square&color=6BCB77
+⭐ Stars https://img.shields.io/github/stars/Saan-Irl/SAAN-GOAT-BOT-V3?style=flat-square&color=FF6B6B
+🍴 Forks https://img.shields.io/github/forks/Saan-Irl/SAAN-GOAT-BOT-V3?style=flat-square&color=4D96FF
+📦 Size https://img.shields.io/github/repo-size/Saan-Irl/SAAN-GOAT-BOT-V3?style=flat-square&color=6BCB77
+📅 Last Commit https://img.shields.io/github/last-commit/Saan-Irl/SAAN-GOAT-BOT-V3?style=flat-square&color=FFD93D
+🐛 Issues https://img.shields.io/github/issues/Saan-Irl/SAAN-GOAT-BOT-V3?style=flat-square&color=FF6B6B
+🔀 PRs https://img.shields.io/github/issues-pr/Saan-Irl/SAAN-GOAT-BOT-V3?style=flat-square&color=6BCB77
 
 </div>
 
@@ -215,10 +215,10 @@ Metric Value
 
 ```bash
 # Clone the repository
-git clone https://github.com/lazyanik/SATURO-BOT-V2.git
+git clone https://github.com/Saan-Irl/SAAN-GOAT-BOT-V3.git
 
 # Navigate to project directory
-cd SATURO-BOT-V2
+cd SAAN-GOAT-BOT-V3
 
 # Install dependencies
 npm install
@@ -236,22 +236,22 @@ npm start
 
 <div align="center">
 
-<a href="https://www.facebook.com/profile.php?id=61590594545013">
-  <img src="https://img.shields.io/badge/👤_ANIK_ISLAM_SADIK-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1a2e"/>
+<a href="https://www.facebook.com/siam.ahmed.491801">
+  <img src="https://img.shields.io/badge/👤_SIAM_AHMED_SAAN-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://www.facebook.com/profile.php?id=61590594545013">
+<a href="https://www.facebook.com/siam.ahmed.491801">
   <img src="https://img.shields.io/badge/📱_Facebook_Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://wa.me/8801886986619">
+<a href="https://wa.me/8801898747***">
   <img src="https://img.shields.io/badge/📱_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://github.com/aLpha-x69/SATURO-BOT-V2/issues">
+<a href="https://https://github.com/Saan-Irl/SAAN-GOAT-BOT-V3/issues">
   <img src="https://img.shields.io/badge/🐛_Report_Bug-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://github.com/aLpha-x69/SATURO-BOT-V2/discussions">
+<a href="https://https://github.com/Saan-Irl/SAAN-GOAT-BOT-V3/discussions">
   <img src="https://img.shields.io/badge/💬_Discussions-4D96FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://www.facebook.com/profile.php?id=61590594545013">
+<a href="https://www.facebook.com/siam.ahmed.491801">
   <img src="https://img.shields.io/badge/💬_Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white&labelColor=1a1a2e"/>
 </a>
 
@@ -265,7 +265,7 @@ npm start
 
 Role Name Contribution
 🏆 Original Creator NTKhang03 Goat-Bot-V2 Base
-👑 Modifier & Maintainer ANIK ISLAM SADIK Core Modifications, Enhancements & Active Development
+👑 Modifier & Maintainer SIAM AHMED SAAN Core Modifications, Enhancements & Active Development
 
 </div>
 
@@ -290,11 +290,11 @@ If you find this project helpful, please consider:
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                    SATURO BOT V2                            ║
+║                    SAAN'S BOT V3                            ║
 ║                 MIT License (No Derivatives)                ║
 ║                                                             ║
 ║  Copyright (c) 2022 NTKhang03                              ║
-║  Modified & Maintained by ANIK ISLAM SADIK                 ║
+║  Modified & Maintained by SIAM AHMED SAAN                 ║
 ║                                                             ║
 ║  ✔ You may use and share this software freely              ║
 ║  ✘ You may NOT modify or create derivative works           ║
@@ -309,8 +309,8 @@ If you find this project helpful, please consider:
 
 <div align="center">
 
-<a href="https://github.com/lazyanik9/SATURO-BOT-V2/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=lazyanik/SATURO-BOT-V2" />
+<a href="https://github.com/Saan-Irl/SAAN-GOAT-BOT-V3/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SAAN-GOAT-BOT-V3" />
 </a>
 
 </div>
