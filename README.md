@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://i.imgur.com/eQ13LWa.jpeg" width="75%" style="border-radius:50px 20px 50px 20px; border: 6px solid; border-image: linear-gradient(135deg, #ff6b6b, #ffd93d, #6bcb77, #4d96ff, #a29bfe, #fd79a8) 1; box-shadow: 0 0 120px rgba(255,107,107,0.6), 0 0 240px rgba(255,217,61,0.4), 0 0 360px rgba(107,203,119,0.2);"/>
+  <img src="https://i.imgur.com/r0qO46q.gif" width="75%" style="border-radius:50px 20px 50px 20px; border: 6px solid; border-image: linear-gradient(135deg, #ff6b6b, #ffd93d, #6bcb77, #4d96ff, #a29bfe, #fd79a8) 1; box-shadow: 0 0 120px rgba(255,107,107,0.6), 0 0 240px rgba(255,217,61,0.4), 0 0 360px rgba(107,203,119,0.2);"/>
 </div>
 
 <br/>
